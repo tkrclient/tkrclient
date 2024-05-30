@@ -1,5 +1,6 @@
 ## Credits
 Made the script: <br>
+tkr ᴹᴿ乂ｙａｋｕｚａ☂ <br>
 TKR racist <br>
 TKR Lorenzino <br>
 TKR Blacklight <br>
