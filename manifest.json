@@ -1,0 +1,23 @@
+{
+  "name": "iogames.fun",
+  "description": "iogames.fun",
+  "version": "1.0",
+  "manifest_version": 3,
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "gvbeguaeraebibgeaiugreukgaegkuae@example.com"
+    }
+  },
+  "browser_action": {
+    "default_popup": "active.html",
+    "default_icon": "favicon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://iogames.fun/",
+        "http://iogames.fun/"],
+      "js": ["script.js"]
+    }
+  ]
+}
