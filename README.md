@@ -1,10 +1,20 @@
 ## Credits
-Made the script: <br>
-tkr ᴹᴿ乂ｙａｋｕｚａ☂ <br>
-TKR racist <br>
+Who made the script: <br>
 TKR Lorenzino <br>
-TKR Blacklight <br>
 TKR Mr iogames <br>
+TKR024 <br>
+TKR Blacklight <br>
+TKR DPL <br>
+
+Other TKR Members: <br>
+TKR DDLHSK <br>
+TKR Androz <br>
+TKR Zeyyr <br>
+TKR RB08A <br>
+Hey this is a quick message to the guy who runs the TKR Github site and is currently working on the new mod. I have pretty much no way to contact you but I think you've seen in your chat what I've said about wanting to work with you now. <br>
+I have no way to refer to you or message you tho so I had to by proposing a change to this github thingy (also I have no idea who tkr racist or tkr yakusa are, unless thats one of you). <br>
+
+
 
 ## Firefox Addon Available!
 https://addons.mozilla.org/en-US/firefox/addon/tkrclient/
